@@ -6,7 +6,7 @@
 
 2) device emulator - Google Nexus 5X - 6.0.0 - API 23 - 1080x1920
 
-3) flash [Genymotion-ARM-Translation_v1.1.zip](http://www.mirrorcreator.com/files/0ZIO8PME/Genymotion-ARM-Translation_v1.1.zip_links) then restart.
+3) flash [Genymotion-ARM-Translation_v1.1.zip](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi_5-e9rMjPAhWIipQKHXRgAGYQFggaMAA&url=http%3A%2F%2Fforum.xda-developers.com%2Fattachment.php%3Fattachmentid%3D2680937%26d%3D1397258016&usg=AFQjCNGYYDe7bytHYHeSHgE2SZr7Xm9b-A&sig2=UrX7uVBCkjdD23_nFWx4hQ&bvm=bv.135258522,d.dGo&cad=rja) then restart.
 
 4) flash [gapps-L-4-21-15.zip](https://www.androidfilehost.com/?fid=96042739161891406).
 

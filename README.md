@@ -12,11 +12,11 @@
 
 5) Sign in into your google account.
 
-6) download [benzo-gapps-M-20151011-signed-chroma-r3.zip](https://www.androidfilehost.com/?fid=2405280434783543) and restart.
+6) download [benzo-gapps-M-20151011-signed-chroma-r3.zip]https://www.androidfilehost.com/?fid=24052804347835438) and restart.
 
 ## Other Version
 
-- Google Apps for Android 6.0 [benzo-gapps-M-20151011-signed-chroma-r3.zip](https://www.androidfilehost.com/?fid=2405280434783543)
+- Google Apps for Android 6.0 [benzo-gapps-M-20151011-signed-chroma-r3.zip](https://www.androidfilehost.com/?fid=24052804347835438)
 - Google Apps for Android 5.1 [gapps-L-4-21-15.zip](https://www.androidfilehost.com/?fid=96042739161891406)
 - Google Apps for Android 5.0 [gapps-lp-20141109-signed.zip](https://www.androidfilehost.com/?fid=95784891001614559)
 - Google Apps for Android 4.4.4 [gapps-kk-20140606-signed.zip](https://www.androidfilehost.com/?fid=23501681358544845)

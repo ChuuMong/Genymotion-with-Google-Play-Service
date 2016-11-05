@@ -12,17 +12,17 @@
 
 5) Sign in into your google account.
 
-6) download [benzo-gapps-M-20151011-signed-chroma-r3.zip]https://www.androidfilehost.com/?fid=24052804347835438) and restart.
+6) download [benzo-gapps-M-20151011-signed-chroma-r3.zip](https://www.androidfilehost.com/?fid=24052804347835438) and restart.
 
+### Other Plan
 
+1) Open [Open Gapps](http://opengapps.org/)
 
+2) Select x86
 
+3) You want to select for android version
 
-[Open Gapps](http://opengapps.org/)
-
-1) Select x86
-2) You want to select for android version
-3) Go!!! Download!!!
+4) Go!!! Download!!!
 
 ## Other Version
 
